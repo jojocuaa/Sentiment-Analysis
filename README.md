@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 It's my first time so i still learning alot
 
-
+MOST OF THE CODE IS FOR TWITTER USING CSV DATA
 
 
 Before using the code you must install anaconda or jupyter notebook if you already have python in your pc or laptop
