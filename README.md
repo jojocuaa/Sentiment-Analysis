@@ -24,3 +24,6 @@ jika sudah memiliki pip bagi python atau anaconda promp, hal yang harus dilakuka
 THE DATA THAT I PROVIDE IT'S NOT MINE, USE IT VERY CAREFULLY
 
 YOU CAN DATA FOR training.1600000.processed.noemoticon.csv here https://www.kaggle.com/datasets/ferno2/training1600000processednoemoticoncsv
+
+
+THE RIGHT DATA IS ON THE ZIP FILE
