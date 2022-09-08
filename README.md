@@ -27,3 +27,6 @@ YOU CAN DATA FOR training.1600000.processed.noemoticon.csv here https://www.kagg
 
 
 THE RIGHT DATA IS ON THE ZIP FILE
+
+
+SNS IS THE NEW WAY TO FIND OLD DATA FROM TWITTER
